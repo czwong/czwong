@@ -24,21 +24,9 @@
 <br />
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nextjs,react,tailwind,fastify,express,springboot,aws,mongodb,mysql,nodejs,postgres,redis,supabase,nginx,py" />
+    <img src="https://skillicons.dev/icons?i=typescript,js,java,py,nextjs,react,angular,tailwind,nodejs,express,spring,aws,mongodb,mysql,postgres,redis,supabase,prisma,nginx" />
   </a>
 </p>
-
-<h3>🏆 My Github Stats:</h3>
-
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=czwong&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=czwong&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
- <!--
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=czwong&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czwong&hide=php&theme=tokyonight" />
-</a>
-</div>
  
 **czwong/czwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
