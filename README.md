@@ -3,7 +3,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=czwong.czwong"/> <span><img src="https://img.shields.io/github/followers/czwong?label=Followers&logo=Github"/></span>
 </div>
 
-## 🎓 I'm a full stack software engineer specializing in TypeScript Node.js, React, and NextJS
+## 🎓 I'm a full stack software engineer. Currently building with TypeScript Node.js, React, NextJS, and Fastify
 
 ## ✉ Find me on:
 <!-- LinkedIn -->
