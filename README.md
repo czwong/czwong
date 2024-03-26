@@ -3,7 +3,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=czwong.czwong"/> <span><img src="https://img.shields.io/github/followers/czwong?label=Followers&logo=Github"/></span>
 </div>
 
-## 🎓 I am a full-stack software engineer proficient in building applications using TypeScript. On the backend, I specialize in Node.js with Fastify for efficient server-side development. For the frontend, I leverage React and Next.js to create dynamic and responsive user interfaces.
+## 🎓 I'm a full-stack software engineer specializing in TypeScript, with expertise in Node.js and Fastify for backend development, and React and Next.js for creating dynamic, responsive front-end interfaces.
 
 ## ✉ Find me on:
 <!-- LinkedIn -->
